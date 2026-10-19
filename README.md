@@ -1,5 +1,7 @@
 # EliLain Player
 
+[![License: Prosperity 3.0](https://img.shields.io/badge/License-Prosperity%203.0-blue.svg)](LICENSE)
+
 A quiet, native music player for the music already on your machine. Your Lain
 artwork, a frosted glass interface, and a real mirrored cover — no account, no
 API keys, no network calls at all.
@@ -86,5 +88,7 @@ python tools/render_player.py out/ --music /path/to/a/music/folder
 
 ## License
 
-Code: MIT. User-supplied Lain artwork remains © its respective rights holders
-and is **not** covered by the code license — see `elilain_player/assets/CREDITS.md`.
+Code: [Prosperity Public License 3.0](LICENSE) — free for noncommercial use,
+with a thirty-day trial for commercial use. User-supplied Lain artwork remains
+© its respective rights holders and is **not** covered by the code license —
+see `elilain_player/assets/CREDITS.md`.

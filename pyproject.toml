@@ -7,6 +7,7 @@ name = "elilain-player"
 version = "0.1.0"
 description = "A quiet, native Lain-themed local music player"
 requires-python = ">=3.11"
+license = { text = "Prosperity Public License 3.0" }
 dependencies = ["PySide6>=6.8,<7", "mutagen>=1.47", "Pillow>=10"]
 
 [project.gui-scripts]

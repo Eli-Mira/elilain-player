@@ -12,7 +12,7 @@ The current UI uses images supplied by Eli for this personal app:
 The other blue Wired and distressed collage images are atmosphere references,
 not overlays on controls. The source authors and redistribution licenses of
 these supplied images are not verified. Artwork remains copyright its respective
-rights holders and is **not** covered by the application's MIT code license.
+rights holders and is **not** covered by the application's Prosperity code license.
 No official affiliation or redistribution permission is claimed. Obtain
 permission or replace the artwork with licensed assets before public distribution.
 
